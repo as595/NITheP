@@ -18,3 +18,9 @@
 
 # NITheP
 30th Chris Engelbrecht Summer School
+
+
+
+-----
+
+GIF credit: <a href="http://www.rochesterastronomy.org/radio-astronomy/radiotelescope-dishanimated/" target="_blank">rochesterastronomy.org</a>
