@@ -10,11 +10,6 @@
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
 [![License](https://img.shields.io/cran/l/devtools.svg)](https://opensource.org/licenses/gpl-license)
 
-<p align="center"><img width=45% src="https://github.com/as595/4IRSantaHack/blob/master/media/hack_title.png"></p>
-
-
-## Introduction
- Welcome to the 4IR CDT Santa Hack 2018! 
 
 # NITheP
 30th Chris Engelbrecht Summer School
