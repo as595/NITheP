@@ -28,6 +28,10 @@ This lecture starts with [a primer on Fourier transforms](https://allofyourbases
 
 ### Lecture 3: Real time classification at SKA-scale for time domain astrophysics
 
+#### Reading material:
+
+* [A Processing Pipeline for High Volume Pulsar Data Streams](https://arxiv.org/pdf/1810.06012.pdf) by Rob Lyon et al.
+
 ---
 
 ### Lecture 4: Data-centric machine learning for SKA post-processing
