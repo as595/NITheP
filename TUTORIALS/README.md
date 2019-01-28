@@ -23,7 +23,11 @@ You can then install all of the libraries for these tutorials using:
 pip3 install -r requirements.txt
 ``
 
+---
+
 ### Tutorial 1: Simulating an interferometer and making an image
+
+---
 
 ### Tutorial 2: Machine Learning Classification of Pulsar Candidates
 
