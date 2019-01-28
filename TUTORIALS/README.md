@@ -1,5 +1,7 @@
-Tutorials
----
+# Tutorials
+
+
+#### Setting up your environment
 
 I like to use [virtualenv](https://pypi.org/project/virtualenv/) to make sure I'm running in a well-defined environment. 
 
