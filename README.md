@@ -11,13 +11,9 @@
 [![License](https://img.shields.io/cran/l/devtools.svg)](https://opensource.org/licenses/gpl-license)
 
 
-# NITheP / CHPC 
-30th Chris Engelbrecht Summer School
+# NITheP / CHPC 30th - 30th Chris Engelbrecht Summer School / 9th CHPC Introductory Programming School
 
-**repo under construction**
-
-
-Repository for teaching materials from the [30th Chris Engelbrecht Summer School](https://quantum.ukzn.ac.za/2019-chris-engelbrecht-summer-school/) in Drakensberg, South Africa.
+Repository for teaching materials from the [30th Chris Engelbrecht Summer School](https://quantum.ukzn.ac.za/2019-chris-engelbrecht-summer-school/) in Drakensberg, South Africa. 
 
 # Lectures:
 
@@ -25,6 +21,11 @@ Repository for teaching materials from the [30th Chris Engelbrecht Summer School
 * Big Telescope, Big Data: Indirect imaging in the SKA era (see associated Python tutorial)
 * Real-time classification at SKA-scale for time domain astrophysics (see associated Python tutorial)
 * Data-centric machine learning for SKA post-processing
+
+# Tutorials:
+
+* Simulating an interferometer and making an image.
+* Machine Learning for Pulsar Classification.
 
 
 -----
