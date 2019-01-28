@@ -10,7 +10,7 @@ This lecture gives an introduction to radio telescopes and interferometry. It de
 
 * [Chapter 3](https://link.springer.com/chapter/10.1007/978-3-319-44431-4_3) of [Interferometry and Synthesis in Radio Astronomy](https://link.springer.com/book/10.1007%2F978-3-319-44431-4) by Thompson, Moran & Swenson gives a more detailed explanation of the interferometer response.
 
-------------
+---
 
 ### Lecture 2: Indirect Imaging in the SKA Era
 
