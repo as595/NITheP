@@ -23,3 +23,13 @@ This lecture starts with a primer on Fourier transforms. It then gives an introd
 * [This paper](http://adsabs.harvard.edu/full/2005ASPC..347...86C) by Tim Cornwell talks about w-projection for wide field imaging.
 
 * [This document](http://ska-sdp.org/sites/default/files/attachments/ska-tel-sdp-0000013_06_performancemodel_0.pdf) from the SKA [Science Data Processor (SDP)](http://ska-sdp.org) design consortium provides a parametric model for the computational complexity of the imaging pipeline for the SKA.
+
+---
+
+### Lecture 3: Real time classification at SKA-scale for time domain astrophysics
+
+---
+
+### Lecture 4: Data-centric machine learning for SKA post-processing
+
+
