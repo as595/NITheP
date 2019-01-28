@@ -17,7 +17,7 @@ Repository for teaching materials from the [30th Chris Engelbrecht Summer School
 
 #### Lectures:
 
-* The Square Kilometre Array and its Science (included introduction to radio interferometry)
+* The Square Kilometre Array and its Science (includes an introduction to radio interferometry)
 * Big Telescope, Big Data: Indirect imaging in the SKA era (see associated Python tutorial)
 * Real-time classification at SKA-scale for time domain astrophysics (see associated Python tutorial)
 * Data-centric machine learning for SKA post-processing
