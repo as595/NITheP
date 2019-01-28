@@ -34,7 +34,7 @@ This lecture starts with [a primer on Fourier transforms](https://allofyourbases
 
 * [A Processing Pipeline for High Volume Pulsar Data Streams](https://arxiv.org/pdf/1810.06012.pdf) by [Rob Lyon](http://www.scienceguyrob.com) et al.
 
-* [Rob Lyon](http://www.scienceguyrob.com)'s [machine learning tutorials for pulsar classification](https://github.com/astro4dev/OAD-Data-Science-Toolkit/tree/master/Teaching%20Materials/Machine%20Learning/Supervised%20Learning/Examples/PPC) are available on github.
+* [Rob Lyon](http://www.scienceguyrob.com)'s [machine learning tutorials for pulsar classification](https://github.com/astro4dev/OAD-Data-Science-Toolkit/tree/master/Teaching%20Materials/Machine%20Learning/Supervised%20Learning/Examples/PPC) are available as part of the [IAU OAD Data Science Toolkit](https://github.com/astro4dev/OAD-Data-Science-Toolkit).
 
 ---
 
