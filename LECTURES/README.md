@@ -1,6 +1,6 @@
 # Lectures
 
-### Lecture 1: The Square Kilometre Array and its Science ([link](https://github.com/as595/NITheP/blob/master/LECTURES/SquareKilometreArray.pdf)]
+### Lecture 1: The Square Kilometre Array and its Science [[link](https://github.com/as595/NITheP/blob/master/LECTURES/SquareKilometreArray.pdf)]
 
 This lecture gives an introduction to radio telescopes and interferometry. It describes the [Square Kilometre Array (SKA) telescope](www.skatelescope.org) and some of the [key science areas](https://www.skatelescope.org/science/) that will be addressed by this new instrument. It goes on to explain how radio interferometers make measurements of the sky. 
 
