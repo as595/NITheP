@@ -14,10 +14,12 @@ This lecture gives an introduction to radio telescopes and interferometry. It de
 
 ### Lecture 2: Indirect Imaging in the SKA Era
 
-This lecture gives an introduction to making images using data from radio interferometers and describes why this is computationally challenging for the SKA. 
+This lecture starts with a primer on Fourier transforms. It then gives an introduction to making images using data from radio interferometers (starting from the end of Lecture 1) and describes why this is computationally challenging for the SKA. 
 
 #### Reading material:
 
 * [Chapter 10](https://link.springer.com/chapter/10.1007/978-3-319-44431-4_10) of [Interferometry and Synthesis in Radio Astronomy](https://link.springer.com/book/10.1007%2F978-3-319-44431-4) by Thompson, Moran & Swenson gives an introduction to interferometric imaging.
 
 * [This paper](http://adsabs.harvard.edu/full/2005ASPC..347...86C) by Tim Cornwell talks about w-projection for wide field imaging.
+
+* [This document](http://ska-sdp.org/sites/default/files/attachments/ska-tel-sdp-0000013_06_performancemodel_0.pdf) from the SKA [Science Data Processor (SDP)](http://ska-sdp.org) design consortium provides a parametric model for the computational complexity of the imaging pipeline for the SKA.
