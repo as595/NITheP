@@ -11,8 +11,7 @@
 [![License](https://img.shields.io/cran/l/devtools.svg)](https://opensource.org/licenses/gpl-license)
 
 
-## NITheP / CHPC 
-## 30th Chris Engelbrecht Summer School / 9th CHPC Introductory Programming School
+## NITheP / CHPC - Foundations of Theoretical and Computational Science 
 
 Repository for teaching materials from the [30th Chris Engelbrecht Summer School](https://quantum.ukzn.ac.za/2019-chris-engelbrecht-summer-school/) in Drakensberg, South Africa. 
 
