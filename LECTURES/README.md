@@ -1,5 +1,4 @@
 # Lectures
----
 
 ### The Square Kilometre Array and its Science
 
