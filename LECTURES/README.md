@@ -24,6 +24,10 @@ This lecture starts with [a primer on Fourier transforms](https://allofyourbases
 
 * [This document](http://ska-sdp.org/sites/default/files/attachments/ska-tel-sdp-0000013_06_performancemodel_0.pdf) from the SKA [Science Data Processor (SDP)](http://ska-sdp.org) design consortium provides a parametric model for the computational complexity of the imaging pipeline for the SKA.
 
+#### Python Notebooks:
+
+* You can make your own Fourier/Furrier Cat with [this notebook](https://github.com/as595/AllOfYourBases/blob/master/TIARA/RadioImaging/FourierCat.ipynb).
+
 ---
 
 ### Lecture 3: Real time classification at SKA-scale for time domain astrophysics
