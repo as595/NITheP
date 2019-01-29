@@ -29,7 +29,7 @@ pip3 install -r requirements.txt
 
 This tutorial simulates the response of the [VLA telescope](https://en.wikipedia.org/wiki/Very_Large_Array) towards a user defined source direction. It shows how the synthesized beam (PSF) is calculated and how an image is made. The notebook illustrates why the anti-aliasing kernel is required in the imaging process and how changing the imaging parameters can affect the aliasing problem. 
 
-Notebook: [SimulateInterferometer.ipynb]()
+Notebook: [SimulateInterferometer.ipynb](https://github.com/as595/NITheP/blob/master/TUTORIALS/SimulateInterferometer.ipynb)
 
 ---
 
