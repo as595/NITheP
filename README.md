@@ -9,6 +9,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/as595/NITheP.svg)](https://github.com/as595/NITheP/issues)
 ![Contributions welcome](https://img.shields.io/badge/contributions-private-orange.svg)
 [![License](https://img.shields.io/cran/l/devtools.svg)](https://opensource.org/licenses/gpl-license)
+[![HitCount](http://hits.dwyl.io/as595/NITheP.svg)](http://hits.dwyl.io/as595/NITheP)
 
 
 ## NITheP / CHPC - Foundations of Theoretical and Computational Science 
