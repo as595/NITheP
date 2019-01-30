@@ -43,9 +43,11 @@ This lecture starts with [a primer on Fourier transforms](https://allofyourbases
 
 * [A Processing Pipeline for High Volume Pulsar Data Streams](https://arxiv.org/pdf/1810.06012.pdf) by [Rob Lyon](http://www.scienceguyrob.com) et al.
 
-#### Audio Material:
+#### Audio/Visual Material:
 
 * [Listen to pulsar B0329+54](https://github.com/as595/NITheP/blob/master/LECTURES/AUDIO) and [other pulsars on the Jodrell Bank website](http://www.jb.man.ac.uk/distance/frontiers/pulsars/section1.html)
+
+* Check out this [beautiful visualisation of all the known pulsars](http://www.ishivvers.com/maps/pulsars.html) by Isaac Shivvers.
 
 #### Python Notebooks:
 
