@@ -49,6 +49,10 @@ This lecture starts with [a primer on Fourier transforms](https://allofyourbases
 
 * [Listen to pulsar B0329+54](https://github.com/as595/NITheP/blob/master/LECTURES/AUDIO) and [other pulsars on the Jodrell Bank website](http://www.jb.man.ac.uk/distance/frontiers/pulsars/section1.html)
 
+#### Python Notebooks:
+
+* This lecture is accompanied by [Tutorial 2]().
+
 ---
 
 ### Lecture 4: Data-centric machine learning for SKA post-processing
