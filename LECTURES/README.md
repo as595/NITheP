@@ -47,7 +47,7 @@ This lecture starts with [a primer on Fourier transforms](https://allofyourbases
 
 #### Audio Material:
 
-* [Listen to pulsar B0329+54]() and [other pulsars on the Jodrell Bank website](http://www.jb.man.ac.uk/distance/frontiers/pulsars/section1.html)
+* [Listen to pulsar B0329+54](https://github.com/as595/NITheP/blob/master/LECTURES/AUDIO) and [other pulsars on the Jodrell Bank website](http://www.jb.man.ac.uk/distance/frontiers/pulsars/section1.html)
 
 ---
 
