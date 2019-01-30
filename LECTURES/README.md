@@ -28,7 +28,7 @@ This lecture starts with [a primer on Fourier transforms](https://allofyourbases
 
 #### Python Notebooks:
 
-* You can make your own Fourier/Furrier Cat with [this notebook](https://github.com/as595/AllOfYourBases/blob/master/TIARA/RadioImaging/FourierCat.ipynb).
+* You can make your own Fourier/Furrier Cat with [this notebook](https://github.com/as595/NITheP/blob/master/TUTORIALS/FourierCat.ipynb).
 * This lecture is accompanied by [Tutorial 1](https://github.com/as595/NITheP/blob/master/TUTORIALS/SimulateInterferometer.ipynb).
 
 ---
