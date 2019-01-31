@@ -33,7 +33,7 @@ This lecture starts with [a primer on Fourier transforms](https://allofyourbases
 
 ---
 
-### Lecture 3: Real time classification at SKA-scale for time domain astrophysics [link](https://github.com/as595/NITheP/blob/master/LECTURES/RealTimeClassification.pdf)
+### Lecture 3: Real time classification at SKA-scale for time domain astrophysics [[link](https://github.com/as595/NITheP/blob/master/LECTURES/RealTimeClassification.pdf)]
 
 #### Reading material:
 
