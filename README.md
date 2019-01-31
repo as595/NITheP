@@ -18,15 +18,15 @@ Repository for teaching materials from the [30th Chris Engelbrecht Summer School
 
 #### Lectures:
 
-* The Square Kilometre Array and its Science (includes an introduction to radio interferometry)
-* Big Telescope, Big Data: Indirect imaging in the SKA era (see associated Python tutorial)
-* Real-time classification at SKA-scale for time domain astrophysics (see associated Python tutorial)
+* [The Square Kilometre Array and its Science](https://github.com/as595/NITheP/blob/master/LECTURES/SquareKilometreArray.pdf) (includes an introduction to radio interferometry)
+* [Big Telescope, Big Data: Indirect imaging in the SKA era](https://github.com/as595/NITheP/blob/master/LECTURES/IndirectImaging.pdf) (see associated [Python tutorial](https://github.com/as595/NITheP/blob/master/TUTORIALS/SimulateInterferometer.ipynb))
+* [Real-time classification at SKA-scale for time domain astrophysics](https://github.com/as595/NITheP/blob/master/LECTURES/RealTimeClassification.pdf) (see associated [Python tutorial](https://github.com/as595/NITheP/blob/master/TUTORIALS/PulsarClassifier.ipynb))
 * Data-centric machine learning for SKA post-processing
 
 #### Tutorials:
 
-* Simulating an interferometer and making an image.
-* Machine Learning for Pulsar Classification.
+* [Simulating an interferometer and making an image](https://github.com/as595/NITheP/blob/master/TUTORIALS/SimulateInterferometer.ipynb).
+* [Machine Learning for Pulsar Classification](https://github.com/as595/NITheP/blob/master/TUTORIALS/PulsarClassifier.ipynb).
 
 ----
 
@@ -47,6 +47,7 @@ git clone https://github.com/as595/NITheP.git
 To update your clone if changes are made, use:
 
 ```
+cd NITheP/
 git pull
 ```
 
