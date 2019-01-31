@@ -36,3 +36,6 @@ Notebook: [SimulateInterferometer.ipynb](https://github.com/as595/NITheP/blob/ma
 ### Tutorial 2: Machine Learning Classification of Pulsar Candidates
 
 This tutorial is based on the [IAU OAD Data Science Toolkit](https://github.com/astro4dev/OAD-Data-Science-Toolkit) tutorials by [Rob Lyon](http://www.scienceguyrob.com) and uses the [HTRU2 Dataset](https://archive.ics.uci.edu/ml/datasets/HTRU2) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.883844.svg)](https://doi.org/10.5281/zenodo.883844)
+
+<p align="center"><img width=45% src="https://github.com/as595/NITheP/blob/master/media/shivver.mov"></p>
+
