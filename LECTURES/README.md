@@ -33,7 +33,7 @@ This lecture starts with [a primer on Fourier transforms](https://allofyourbases
 
 ---
 
-### Lecture 3: Real time classification at SKA-scale for time domain astrophysics
+### Lecture 3: Real time classification at SKA-scale for time domain astrophysics [link](https://github.com/as595/NITheP/blob/master/LECTURES/RealTimeClassification.pdf)
 
 #### Reading material:
 
@@ -51,7 +51,7 @@ This lecture starts with [a primer on Fourier transforms](https://allofyourbases
 
 #### Python Notebooks:
 
-* This lecture is accompanied by [Tutorial 2]().
+* This lecture is accompanied by [Tutorial 2](https://github.com/as595/NITheP/blob/master/TUTORIALS/PulsarClassifier.ipynb).
 
 * [Rob Lyon](http://www.scienceguyrob.com)'s [machine learning tutorials for pulsar classification](https://github.com/astro4dev/OAD-Data-Science-Toolkit/tree/master/Teaching%20Materials/Machine%20Learning/Supervised%20Learning/Examples/PPC) are available as part of the [IAU OAD Data Science Toolkit](https://github.com/astro4dev/OAD-Data-Science-Toolkit).
 
