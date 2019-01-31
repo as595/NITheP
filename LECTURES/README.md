@@ -35,7 +35,7 @@ This lecture starts with [a primer on Fourier transforms](https://allofyourbases
 
 ### Lecture 3: Real time classification at SKA-scale for time domain astrophysics [[link](https://github.com/as595/NITheP/blob/master/LECTURES/RealTimeClassification.pdf)]
 
-This lecture starts with an introduction to pulsars and their use for detecting gravitational waves. It then describes how pulsars are selected out of radio data. It goes on to describe how pulsar classification is an imbalanced machine learning problem and how that can be addressed. It finishes by describing the real-time streamed classification method expected to be used by the SKA.
+This lecture starts with an introduction to [pulsars](http://www.jb.man.ac.uk/distance/frontiers/pulsars/section1.html) and their use for detecting gravitational waves. It then describes how pulsars are selected out of radio data. It goes on to describe how pulsar classification is an imbalanced machine learning problem and how that can be addressed. It finishes by describing the real-time [streamed classification method](https://arxiv.org/pdf/1405.2278) expected to be used by the SKA.
 
 #### Reading material:
 
