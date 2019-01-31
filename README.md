@@ -32,7 +32,7 @@ Repository for teaching materials from the [30th Chris Engelbrecht Summer School
 
 ### New to Github?
 
-The easiest way to get all of the lecture and tutorial material is to clone this repository. To do this you need git installed on your laptop. If you're working on Linux you can install git using apt-get:
+The easiest way to get all of the lecture and tutorial material is to clone this repository. To do this you need git installed on your laptop. If you're working on Linux you can install git using apt-get (you might need to use sudo):
 
 ```
 apt install git
@@ -44,6 +44,11 @@ You can then clone the repository by typing:
 git clone https://github.com/as595/NITheP.git
 ```
 
+To update your clone if changes are made, use:
+
+```
+git pull
+```
 
 -----
 
