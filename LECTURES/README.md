@@ -66,4 +66,8 @@ This lecture gives an overview of image-based machine learning apporaches that h
 
 #### Reading material:
 
-* You can read more about the SVM classifier for gravitational lenses [here](https://arxiv.org/abs/1705.08949) and about the grsvitational lenses finding challenge [here](https://arxiv.org/abs/1802.03609)
+* The Radio galaxy classification using CNNs that I talked about is [here](https://arxiv.org/abs/1705.03413) and [here]https://arxiv.org/abs/1805.12008. [Radio Galaxy Zoo](https://radio.galaxyzoo.org/) also wrote a blog about it [here](https://blog.galaxyzoo.org/2018/11/01/radio-galaxy-zoos-claran/).
+
+* You can read more about the SVM classifier for gravitational lenses [here](https://arxiv.org/abs/1705.08949) and about the gravitational lenses finding challenge [here](https://arxiv.org/abs/1802.03609)
+
+* I really like the online notes for Anrej Karpathy's Stanford course on [CNNs for Visual Recognition](http://cs231n.github.io).
