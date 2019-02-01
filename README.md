@@ -21,7 +21,7 @@ Repository for teaching materials from the [30th Chris Engelbrecht Summer School
 * [The Square Kilometre Array and its Science](https://github.com/as595/NITheP/blob/master/LECTURES/SquareKilometreArray.pdf) (includes an introduction to radio interferometry)
 * [Big Telescope, Big Data: Indirect imaging in the SKA era](https://github.com/as595/NITheP/blob/master/LECTURES/IndirectImaging.pdf) (see associated [Python tutorial](https://github.com/as595/NITheP/blob/master/TUTORIALS/SimulateInterferometer.ipynb))
 * [Real-time classification at SKA-scale for time domain astrophysics](https://github.com/as595/NITheP/blob/master/LECTURES/RealTimeClassification.pdf) (see associated [Python tutorial](https://github.com/as595/NITheP/blob/master/TUTORIALS/PulsarClassifier.ipynb))
-* Data-centric machine learning for SKA post-processing
+* [Data-centric machine learning for SKA post-processing](https://github.com/as595/NITheP/blob/master/LECTURES/DataCentric.pdf)
 
 #### Tutorials:
 
