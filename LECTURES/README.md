@@ -62,4 +62,8 @@ This lecture starts with an introduction to [pulsars](http://www.jb.man.ac.uk/di
 
 ### Lecture 4: Data-centric machine learning for SKA post-processing
 
+This lecture gives an overview of image-based machine learning apporaches that have been used in radio astronomy, and astrophysics more widely, as an example of the kind of data-centric / data-intensive processing that will be required at SKA Regional Centres around the world.
 
+#### Reading material:
+
+* You can read more about the SVM classifier for gravitational lenses [here](https://arxiv.org/abs/1705.08949) and about the grsvitational lenses finding challenge [here](https://arxiv.org/abs/1802.03609)
